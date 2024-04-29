@@ -1,2 +1,3 @@
-const {TOKEN, ADMIN_ID} = require('./bot_config.json')
+const {TOKEN} = require('./bot_config.json')
 
+console.log(TOKEN)
