@@ -1,0 +1,23 @@
+{
+  "name": "minicrmbot",
+  "version": "1.0.0",
+  "description": "Привет! Это Mini CRM Bot - ваш личный помощник для управления записями клиентов на выбранные даты и время. Этот бот разработан для упрощения процесса записи клиентов и организации вашего бизнеса.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlenkodim/minicrmbot.git"
+  },
+  "author": "Dmitry Pavlenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavlenkodim/minicrmbot/issues"
+  },
+  "homepage": "https://github.com/pavlenkodim/minicrmbot#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
